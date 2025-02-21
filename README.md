@@ -1,2 +1,2 @@
-# python-practice-
-some little examples for python
+# python-practice
+Some little examples in Python
